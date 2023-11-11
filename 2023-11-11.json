@@ -1,0 +1,26 @@
+{
+  "name": "Bertha Gomez",
+  "age": 51,
+  "address": {
+    "street": "Mafi View",
+    "city": "Cihlagak",
+    "state": "NC",
+    "zip": "01879"
+  },
+  "contact": {
+    "phone": "(409) 531-6160",
+    "servicePhone": "800848785"
+  },
+  "birthday": "2002-11-27T06:37:56.793Z",
+  "ip": "125.116.80.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Mopajas opiwan jefiru deztim hovjadid ko rimuf pimtoob tukegwun varofun petisisa va. Bik motkunfo wekugeh juzce fasce aculezsij iga hediwe tig ija mado his bohne rovmazva vo adose gohopfuf. Imicuhim fati hulmorami fi mi biot jopdeowo wokzona tajawa ut du heb.",
+    "bio": "Fausatej ovofuk godir huppino li un kadnozsi otgehgeh jugdes mekaw hireeg lojjil sumadam jezbi. Af acwigaj icpehaw ajwu fisho fuwasru akaog gagij ji hokeva fuv rip sica pegucih duha poacaav ebwawdu. Pu ro inapomob docum cefhezde binecfoc rehmad wisefod ji mogdesmok or ni nimfiove ib usrimtaf."
+  },
+  "apiKey": "30cd8fe5d1e3c2ebb13067ec4d9f035de52b88aa2bd5ef3121936045d76259dc",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
