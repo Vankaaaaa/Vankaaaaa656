@@ -1,0 +1,26 @@
+{
+  "name": "Anne Wood",
+  "age": 30,
+  "address": {
+    "street": "Siuke Pike",
+    "city": "Ciibeva",
+    "state": "VT",
+    "zip": "74015"
+  },
+  "contact": {
+    "phone": "(735) 313-3407",
+    "servicePhone": "800584582"
+  },
+  "birthday": "1959-09-13T00:15:21.077Z",
+  "ip": "49.243.95.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Piwweeh lovkije jor ce gahguvo orge ucu cu som geiwe ijguzcek hada pub. Bivdoh adgu avuzof su ofaopla guh aseduh rusjic uzufur ra itoitipu ikowawez bicherfu aluzekupi. Kuhned naras zem cihe histasbo tuw lefnic niwam em nu ugeletnus puju picuke go var. Zulejcab une lifcafce biw uglepvil rijod gezmem fade weac uci kewese huwecze suiwodu.",
+    "bio": "Benhabani isod ravku hajiv fat pilvinli se kaaves vic huc dafu puvmig. Gevuflut gofo hup mihce cigpic nar kelus odi wiszof ru ijpatot nuftu ivipi pamne. Isesu al oz zah alizac he ohufozo ubtoif voji jotisuga kocwubna pomcivju kutbojih gosuvasu juutgep ogfuj. On zegha subinan fa cer muraz wajwatnec kauh wozas bekogtif tohjoazu bi pu onaaho."
+  },
+  "apiKey": "1f0793e80da96ce959c71c8140c7f9fc11e5871396bfc64fed2e85fea79bab73",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
