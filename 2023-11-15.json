@@ -1,0 +1,26 @@
+{
+  "name": "Dollie Steele",
+  "age": 22,
+  "address": {
+    "street": "Pazvar Loop",
+    "city": "Lenkipwa",
+    "state": "IL",
+    "zip": "73472"
+  },
+  "contact": {
+    "phone": "(879) 329-4552",
+    "servicePhone": "800871812"
+  },
+  "birthday": "1988-10-31T17:16:05.445Z",
+  "ip": "92.7.174.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Rir buaw ikupeclan coov itce vu dahlof ba dalufof hihfosmoz biccokas hogub vero jimehsom neuki. Tiz sugmabok fu kepon ka wod ca tehajdef dehti zebus omavog zah nazwavac. Kefomhop bal di naza mubfa te bu we wuvo dirmi le jodewlu. Vipu elwiuja nohiec ji wolobcet ujjur su kuztoho jilsepi cu mozuz lo. Bod cij pavno gova megpaj tup giw pebez pepvi sovsoh decen capearu wojmibnaj.",
+    "bio": "Kasihigo kokegad goljuv fadaj memoitu fub vute ba wiagapi bobid fi utlom buzfokloj fa adideeb mewuznun evibicce. Uva atecem atkav gathut tomnowet hejov koh sipanhef nuavgi heda re zoz. Raun uztabef aj painu be ag huto iwipa tiic li pebwom pafor ruf ednopim gupucsoc luzul. Hul lu cocej ufumu pakorus avafeput urocabi as felda sigkoc ko riegu kigebza terca uvtev rifku filmaze. Gotosoj ne govbic akvetmu bilejibok kuvamige carafe if be lid duthobuh aspogupu sigji wa no sobvija imerisi fopu."
+  },
+  "apiKey": "6d0962d4ac2327adb05f866616c7897ffc44bf9dd301cfd6329793a3bbd14e65",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
