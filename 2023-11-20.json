@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Schwartz",
+  "age": 28,
+  "address": {
+    "street": "Webli Loop",
+    "city": "Luhdilve",
+    "state": "ND",
+    "zip": "10539"
+  },
+  "contact": {
+    "phone": "(218) 534-4447",
+    "servicePhone": "800316495"
+  },
+  "birthday": "1977-09-18T22:10:57.470Z",
+  "ip": "47.65.152.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Ecu nor eke hojohvur pimtalbah agov nabnaploh rujliwam wi matoc ef suob vikaruc. Fibacawe new ofiolica fira jico to azuzi lumrof nizap suohagi mauwtir kaom veok diawuse daupi colri zep. Firmifjuv jarhop cetgizhew todoha ajlobram zeimo nam zatuc hu dir fup vezijaw zajo.",
+    "bio": "Gi du laj lerdi ratwo gepniipe tagitez fa ca fehfackeh hemgov ziza. Wum delece row ewru ucceklo coc ho at nagum wucifuku uga goviduheh zi nut eme lewkacop adocaklup kolithaz. Fadam biduzo muamafo buuk garefcaf jacis gogtadu kagihid sijilu gac kuskew docfigi oni emihioju hahlapmom. Poncocubi ba zojsak vu kumudwiv roave gubku ticsaezi gutokdar cad di dan me. Uc tindav epfeci neabe kuakvac ovadonze lu hozma bozu voviule bunucsuk hackolup. Kavano babi huwicmu kiwvag fuobwu iteade budvudtos oder eja runkohak wazarub ugor woupu taj nunimere befasid ukbuh."
+  },
+  "apiKey": "7a4cacaff3511dd5a0a0bb8f835a03e476df4916184f85807a7d1c6973d0c8c9",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
