@@ -1,0 +1,26 @@
+{
+  "name": "Chris Diaz",
+  "age": 45,
+  "address": {
+    "street": "Lorbum Terrace",
+    "city": "Mellohvud",
+    "state": "OR",
+    "zip": "76837"
+  },
+  "contact": {
+    "phone": "(483) 838-7209",
+    "servicePhone": "800932515"
+  },
+  "birthday": "1964-07-07T15:04:42.674Z",
+  "ip": "163.79.209.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Iz nupta epvu tuvmula boofi ekcoj jicu wovida pu edizud kawmutu vigiz zad vug vapowal obusa hofde az. Se isagef kirwow dokikebef jegu gotmu jiciz kodcelip neaz izoniol viejami cuzo. Ogo is anovapfaw bo ij gabup zep fihansoc gohize ilekozbut wavur enocuj heluga pevafupi pulopevug tibceize acri go.",
+    "bio": "Wosadir el kegfirupu oziwor saj lulnawke nem na okhigec wuub jiwconiz wacag dedoro vunokluv noc batdidbak nu. Umvah pogboen dogca ovohec sivarne fuhataz vibjo asufulfaf dic suhba kimuwi ik. Bu ka vo uskod zosnob amu wime eno uge ri jutwej ezonikeb zed."
+  },
+  "apiKey": "b77aef262e07abb8c11456a6e62ebcd579b977238ff3ba95d244e08a99a48047",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
