@@ -1,0 +1,26 @@
+{
+  "name": "Marie Cortez",
+  "age": 19,
+  "address": {
+    "street": "Reso Grove",
+    "city": "Mujleife",
+    "state": "HI",
+    "zip": "21053"
+  },
+  "contact": {
+    "phone": "(326) 844-3735",
+    "servicePhone": "800646696"
+  },
+  "birthday": "1997-12-28T04:24:49.433Z",
+  "ip": "245.235.227.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Mo aho karwiwuk kanesepa ecusiabe bezabo hemjow hifalirec vodwit pecevuc buz hatib na nuujiwif bobhi eteuli gehinum me. Jiv awidimo gefo evodaz be esku ro ifokone uda bolujbiv bez birmej wefjumaj la vuse unouzu reh divuhi. Tifi gavaevo ofidu wo kano misti ginkoke af ivuepa gagne zugza lofonoz tuuz higuza tedic ze. Covuvroz dejbigur okwazod poicna agcoupa upo ubnobde zi emzizo owfe kelpadev sob bawuh.",
+    "bio": "Pamejho oregogo lieho kudmoto liwwinda wic ged ij midub reljaf kormoco permum le. Kohezew cu pobijoj ek vowilaeni jotej cuih melitne nudine zisjig poko tukpar vubu. Liha coz tubkedi jefelib na zidamfi rifipig vozoz rohcako gihge cum bam iguwus johkovcuf. Favbo mowwobcif fol iv bunawinal liur jufdeffe gakmuzu napge nel kurosum narhal sudkum egi ohi ut. Ufnu kuulo girbuto nu dog louna radmaoce imaofi umpav amafuini zekhar dufi he sopjelsap. Cofa seoj laosusas osidog ur ik rewupfef ocepi us sod gun dogojaf pavpa. Fipkigal moufut ubhusu karuetu sisvu af raote wa veta cem eh efpa zej ibuna doneku ibvuwtab egiubgo vub."
+  },
+  "apiKey": "845fcf9c9c0277c699b81bc1bd4acc03bb61df5e7c200db3d7f7a9b02df90af3",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
