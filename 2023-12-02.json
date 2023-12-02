@@ -1,0 +1,26 @@
+{
+  "name": "Nathaniel McCarthy",
+  "age": 20,
+  "address": {
+    "street": "Puihe Extension",
+    "city": "Kapoko",
+    "state": "OH",
+    "zip": "65791"
+  },
+  "contact": {
+    "phone": "(318) 451-6174",
+    "servicePhone": "800936885"
+  },
+  "birthday": "1980-07-16T16:31:14.182Z",
+  "ip": "3.39.250.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Zomav bar aka lob fo tof no far el pupelib ugo laice ku. Copjusjij arpofaf raf ojehe fojpo winab vuen fotife amju otezean vemhinu fomhodles ziwah rijroba les ogowo. Leajon ze bof ice vimowjap lu weowze obabuzaf affunop zo woip obhitma dajeb mog vunhemu.",
+    "bio": "Mehhepi inile tev ebaja faonuta anpobfij aztu edre zale abduzuv bo supegop sunatu ruep pacozef kem be. Sujnu we raeg origuhim ca etzipwuc ipiiklod jini hoddo negume nacot wate ej rocogi tuwvuwfat. Ofu ga gu wen ibapaloc hazviwi wobedko wa doc farhifno mafgi po nenavej vob wef. Nekrewu fehniwen vefha gifa igizu puf eci ece taetwe jihi ewi gop gi."
+  },
+  "apiKey": "974ba89fdca37a8e8041f68661e1c955b588c6a5c6600d3e8fe89a2673596156",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
