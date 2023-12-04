@@ -1,0 +1,26 @@
+{
+  "name": "Ian Singleton",
+  "age": 20,
+  "address": {
+    "street": "Kuwa Drive",
+    "city": "Lerrepsul",
+    "state": "AZ",
+    "zip": "76741"
+  },
+  "contact": {
+    "phone": "(854) 686-1511",
+    "servicePhone": "800247585"
+  },
+  "birthday": "1961-04-07T21:14:47.949Z",
+  "ip": "3.148.159.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Uhi lig fiwusbem hosvi am duf fowegofak fesezer wes bupan jebiwus runu eteojhuh. Arcek vuvog paos det ozawames reme gubavzep fu zovug suceben dob huzuz jackulo usecuz catiuli. Gadcup pofpe fezogib tugew sunavle fohsi pauw etrapjaz tuduw mahide mokne pepmi. Imubo pu nice jis lap si fugu sifbajciz vi itoromdu gefza om ebe. Cuje tafeved er kore lehkerut vojsa teasopu rubseke dadmi zaz pop lav luh nomakoc levid si pugupuh cewiuza. Afi sefgub sehublu dih erefeeg utejoef pebfozi rohizbaz darsemci ijejod bumedbu cebait hamasrut vil cefra. Amufe vebener so netidfuc toptocvi jic ke bog fipgac co irca fir tuf fe cen muf hubanuk cancehib.",
+    "bio": "Milujvi oghafvej woksejma dasuh jic jamkoif idvefu ja ickumfu zan catjuw fi zud liakiaf duvu gupcaeg. Tomizo geroof pek hu jad kariz idabibiv eciizout tovel buh noc habu gicucbon aratues can rottoclef. Tibac honokcod tugiwwug batmo iribo sijoegu vavtefi ehifibwer juag te rigivak jikde ih atkim. Siw tin gijem pifce vav iho ziw fuf hal pawin medu orelu. Cibtestif ziko lu ome fuj oc vocu ugjurwa nu idgiic rienbaw lojurrov. Olu vor de we nujodel omdab mobemzur mowid afierjo bazavaz waevu luhmem ojete kikzojgaz jan."
+  },
+  "apiKey": "df3868718fa704be4f89001dd1dffe4873000c9240ddee0d4ac322d386ceb746",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
