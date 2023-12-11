@@ -1,0 +1,26 @@
+{
+  "name": "Hunter Moody",
+  "age": 22,
+  "address": {
+    "street": "Fupaki Highway",
+    "city": "Ledonusi",
+    "state": "GA",
+    "zip": "90462"
+  },
+  "contact": {
+    "phone": "(240) 391-7633",
+    "servicePhone": "800241574"
+  },
+  "birthday": "1997-10-03T16:15:27.688Z",
+  "ip": "32.212.187.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Sugaj hezus rupi upcah penjazvi botiz kanifi lobeg takuvu zefejoj fij ewa ge korwano jilok bakca ve. Uzibu heucibe nen hikiveniz di duk uvcudsan iduukuguh sigebim savaplag koce kiperdok dah otapivo. Delha vahjagca do burohkig osju epubulu op suzocija enaije wu pew zumav zat fuunta me. Anuza uzojul neba penlerew multizjaz numa wu uz wal piserecu avhi fiwugju lovwewati bemluefe gatla murajeva. Ezari pimfoje di nasow agiir ti tisziare boja cavpil dawazibe worul rieji izbemtuj zevij.",
+    "bio": "Poroja ugipo bozo nezroglok domha pe ada aj pa si cojofive adronra fip osu pinba hamsaam wow. Wok pu urulevof meged fa zultuhi ol paknukkiv fef peje al unasep. Ta ef dupudu hok diwut dimeclon cimpa bovtiz wujwoko kudsa ethef tehana se don pelrej."
+  },
+  "apiKey": "5b87d72c33cab51f881259efee2b9120fb525d6bd416cdc58b79af97e07244e3",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
