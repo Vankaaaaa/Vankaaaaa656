@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Mathis",
+  "age": 53,
+  "address": {
+    "street": "Mure Glen",
+    "city": "Aroheoke",
+    "state": "UT",
+    "zip": "70912"
+  },
+  "contact": {
+    "phone": "(408) 974-9628",
+    "servicePhone": "800536826"
+  },
+  "birthday": "1983-05-03T23:24:14.424Z",
+  "ip": "242.99.27.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Ci niho ki jivlu bo zi fa ga wuritro ta gup bomizo. Pimkerope zu zeutiuf de ihujefo ozadi gisi uboficev orut je ciocdi in tod. Oja ar ju ezezoasa neco feahacup woddu vatjuuf siud izopod nudkahco saepoak hanbati ije fudunju bostu bom.",
+    "bio": "Ijoveztu en mip ila lekzujtu jo mewzido uzirid da ciropukih ju lom mukahku padaj. Rija ariki wuro onufo vitu dumummok kojvu lareac ozetabav emi tubabu luba. Uc epo utifihe az lut mog mec cej se baz tiinku eku murdu. Ofeiwgag muz ubu womejub raf tahowle sicutaki lan soh huhga tu jifar. Vuvac mamlepu vone se zigew vuokouji lagsuvda lavbarel nozguk rirluhnoz sirwop nafrec si hapovewi. La wifto fonaf zuki fopudzu dajno tezcu nabcufi unonize ejerefi emmob jewlez tuvelefol."
+  },
+  "apiKey": "4301001c9bd765dba32d2faeffbf932c1784a4ac73241487a47e8a62d6936f95",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
