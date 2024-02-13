@@ -1,0 +1,26 @@
+{
+  "name": "Emily Hines",
+  "age": 48,
+  "address": {
+    "street": "Peza Place",
+    "city": "Mozecop",
+    "state": "LA",
+    "zip": "77503"
+  },
+  "contact": {
+    "phone": "(943) 746-6945",
+    "servicePhone": "800812699"
+  },
+  "birthday": "2000-01-26T00:43:59.980Z",
+  "ip": "123.203.70.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Cinauw itozum ibgod sojho tu dunil rih rotboz pu vonsuw nisac nugpuw semtigof licmian igiihubi. Su zapangim coho ti teure datran uda igubeot cogagwu zinag denwivku bapu akader un dew mal zuljotzuf. Zobububef te sovoj jisel pigugu upvoroj lu fam man albe periseup as uhropni gih rinowa ab asu lezjese. Kod heh aba porlagele ogside jekafaz asnilah ehbilep siipuif okaotlig ervo ukozacit ek ajuwe zabtaota li. Inca rihsu eduvapuj do tumalub uliovana jahaf fogweh helolan iza bi pimimoz bued levu panor bar. Laofeeha ruzar kos feojemu zeucnom kinec naf itbe gaipun pikup peecec jepar ova zol.",
+    "bio": "Ig urbe zufke wesocog siz vu lizjuz delid weh mefujbuz bitit ka meb pewefa ab dodouwo fi jedfuwep. Jarwe ado akfopi owu cumi wodoprul te ha moz bacju lu atufocap. Noos wupguteg po otuac cog folwilec uswon luurici dufeg jin ade wullobfo upuvic telho na so ije jenoteso."
+  },
+  "apiKey": "a0452639286f6595bd66c9120fc2eb7a58e0ea361968a30c17285e47c98aae4f",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
