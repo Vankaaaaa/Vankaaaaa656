@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Horton",
+  "age": 31,
+  "address": {
+    "street": "Golku Boulevard",
+    "city": "Hokrakcog",
+    "state": "MS",
+    "zip": "46118"
+  },
+  "contact": {
+    "phone": "(377) 218-9718",
+    "servicePhone": "800922756"
+  },
+  "birthday": "1973-06-15T15:58:34.164Z",
+  "ip": "111.211.120.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Etri sormez vijwifa dogharit hirre no agofi fehuz deniwi lu huz uzewa ale hogej masvak. Bukoef jurwuton oli fittid ririhlu ri kes teuto zumop etatdum rehluj modwonwoh niwdegwi wa. Izmuwihi docubu runow gilom sabdi dob citsud hievicak lo il gupap seha lonpu di fa. Ezijeche tekar mabiki peslic doswebas gupurub muk tosadrog wo neg lob zaawpif moohiun mu ite mownut sor iz. Pimfiawi ogisavmem wosem fuic bekowi ibe nitdo uca nekehwut cu mupbef pewpe joz ge bid gol zor.",
+    "bio": "Wadujuki izasucde hun descenu mufe boggirbil di kumne gomdatej gaupu nog ledzub ifu as piwetilom dam han. Kul bohagewo wop hufanuulu kalmobor wous rumbeb ina tuj uprudil awioz vudhem ogecow juputer rilahsiz casi fohegi jej. Haelauba dovico canit pac sa wulatemiw soptu laweg nemcu fedjunkuw tawu dulbevdi awmon hez vejbet bubjudpe cuwu mubbajiz."
+  },
+  "apiKey": "e8b568ab79b429cd32cc71cc61f2a1731e764aa6cfca7e8f4b260e0aaa7f7a5e",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
