@@ -1,0 +1,26 @@
+{
+  "name": "Norman Bates",
+  "age": 49,
+  "address": {
+    "street": "Zikek Street",
+    "city": "Alaekoli",
+    "state": "HI",
+    "zip": "75603"
+  },
+  "contact": {
+    "phone": "(317) 971-1128",
+    "servicePhone": "800541999"
+  },
+  "birthday": "1961-05-07T13:33:47.994Z",
+  "ip": "46.252.86.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Febvej foc fem pirhor vihzawho cec nit vumab tuca niweden ekeej va itu bilbed we awhihkog. Vune mug gu imeen eco zopfemez epewa magishoj busduzoh jebite ofiuj ufa onto savrig vowda. Bijzeri gol tepliuci uwudi kak pazawki gaseji copopasa faka upudid lan fa gikibu bikcer ra so. Pukba nijdo butde va ajdug bovan korhugor dopodal wowtagtoh zisun kudmab aloka kiahaben olgin. Vih boimo duiz zihbofzif pivipset cuflulo jotasurom ge pecoj lojep muf gagoz sufufop lehebzih usovenda.",
+    "bio": "Rub lih av acela god uhna inalibi si kidi doedfu pistoreju gikeefo babnohi jige gobsuk cadihdal fusecnaf. Jen nus fida ag homo mewhut cidojaab ja tehfi futwihuha waaj dud. Gak da lekdogam monubi kaz narof muh kubag afo sirpicsuz gu zo zedopi ha ebsukus. Bazehha gevas cojaal mi jo ravo wi suzbizin bo gik ugotew bo bogizoh adbop bijozef hos."
+  },
+  "apiKey": "c6d8c0445ec5d81f77d6000541d7ad6825ec8dee7ecede83f32facfee851b7f4",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
