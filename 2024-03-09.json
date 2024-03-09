@@ -1,0 +1,26 @@
+{
+  "name": "Glen Gardner",
+  "age": 65,
+  "address": {
+    "street": "Hihip Point",
+    "city": "Lovizke",
+    "state": "MD",
+    "zip": "21726"
+  },
+  "contact": {
+    "phone": "(802) 258-9831",
+    "servicePhone": "800858361"
+  },
+  "birthday": "1973-01-05T23:43:08.900Z",
+  "ip": "230.221.163.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Fecak bugid jinam cowmeogi ugfuwe jodaf ifuzocna daliw at oz du ab dikluh. Dih zeh vuhsoj avekeli ga epeke fu pifrisvu vig sivbiwlul rogfuj ma. Iwa eg ziderulo reajowi senoleh pufol kojur sulo pur banujfal dad fe jomu gima citpu tuvewop omjotsus rem. Tir sosilis izi pobci urepimid adba noj cihisja vebadpez neskalvuf eclup tiow. Epo lur juihevow amihu girdegi orbod zambej godib ir puva eda buf hatakezi wulvuana enuupahuh pugec mira.",
+    "bio": "Gief pudos tuumuil vejuak vucmojo tarrehjuz sonbojo baf je desam vipuc fe. Nufo voum viotuajo osezu isovo conap zas kepfofar jopa japivlil cicora pos. Rot hotvoc kotfi om pasize sob muhew ase zevmedik nimgip rakodbam wezwaw haheja duah ja."
+  },
+  "apiKey": "23a76c00e40e21e7159209fe5a9d017c61cb4e506268ed0e7fa9e053f038827f",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
