@@ -1,0 +1,26 @@
+{
+  "name": "Billy Thomas",
+  "age": 39,
+  "address": {
+    "street": "Sepkez Manor",
+    "city": "Gufbebe",
+    "state": "OK",
+    "zip": "45383"
+  },
+  "contact": {
+    "phone": "(518) 736-3630",
+    "servicePhone": "800336222"
+  },
+  "birthday": "1992-10-07T16:27:17.567Z",
+  "ip": "224.6.178.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Vecit duk zifiaj tebegcuk ze ofikowe lo ridu iwale bizinbah bububufa zo zamvorru ko fiwwa. Mumo me ku wojfat omeda cer kuov munam zif perufpol gi ugapusu ga ota mev lis ga. Rurihbi dak toglajmar caludti cadhe cuzelto uko jasmu rucanje luebijij jifatdar kaluik.",
+    "bio": "Ah wap koh vewu gafo sekjis akicigev jemkuz we odfohdup za nud wufecefag bernilad wi. Jelon wok dabhub kutvisa lap laclakro vijuezu sipo mupig wi ippihbel pacaan uwedezer domhe rus ofsifuh ru. Bi rometo usororu edejoz ben ujano re apa ciozi eworeh puvgackuh si."
+  },
+  "apiKey": "026aa669386e612b6aa8ada902067800ba40f04a7c1e452d0ed867c0bf5313a9",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
