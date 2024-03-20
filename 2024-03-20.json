@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Tran",
+  "age": 27,
+  "address": {
+    "street": "Keed Road",
+    "city": "Pamdiep",
+    "state": "NC",
+    "zip": "12060"
+  },
+  "contact": {
+    "phone": "(921) 618-2725",
+    "servicePhone": "800671694"
+  },
+  "birthday": "1976-01-05T07:30:31.165Z",
+  "ip": "189.130.173.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Marahav bum mol zigje ehuza evnerova gojnu lam nacimoz bovhikpa olcad ba. Gilpo gan pacziduz nac toske jivcaha zumij saw va urac piod row egifaj. Hatte pujmupa guipo apa kicupdu wuvaf meeba ahiza metele huesba wac noheruko wi soffiliz.",
+    "bio": "Nugipac ugerofo nubo hoz mazla cavedpu kosow miisu wiki imezerpes gojik gu goz sowopzi depara ut. Aw efzibo sumfeb fum ezjalte liuw fagdis pi fizlek ezisuv fipnuic rivtuvmib me vap usisewra vuwuw nih pob. Race az rok mu baul saj ga cinu ojeecicov veheh do az hu pedjo. Wodip rirefhev bo tug oboedukob wutpibno wepem bo zibihuba juncow cu ena gubawwis vor ehaos cozdewut parzew uwomimeg."
+  },
+  "apiKey": "a980c5cc5ef2e2b5e0470e032b6865afdf237e9fcf77ba149999651e0d7d62a2",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
