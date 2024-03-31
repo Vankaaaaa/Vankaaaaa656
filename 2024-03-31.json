@@ -1,0 +1,26 @@
+{
+  "name": "Lydia Flores",
+  "age": 59,
+  "address": {
+    "street": "Usaju Highway",
+    "city": "Akjote",
+    "state": "CO",
+    "zip": "99948"
+  },
+  "contact": {
+    "phone": "(418) 389-2313",
+    "servicePhone": "800877578"
+  },
+  "birthday": "1963-11-19T07:45:47.388Z",
+  "ip": "35.126.224.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuno ereoream udewos orupof ninoiba iwvo cukaseto zohcepul wuherkak rokowav oloza ha wavcoc meme paganuz. Fere ragmo pel zesuse histar ejufoh cukik mih caz rifwikmov rupewhi molveb. Dezacok baz aluogtoz ipze evra likdonu mu ehe laso lozenu de cetawamo jazeca kil otu. Dojjeuwi ubaos vu lizifu vipfis ca zulhigojo mitliar wiowto tuhu zop giugze ufi gimdim eb okkezbeg. Cu madavha hiluvki kiwu ek huam ceolo lisgoecu zi jo cinum wuhdoemo.",
+    "bio": "Lerip geug cirhu ofataiwi kebavej be nob jalhofig omze homev ug lezis. Umuawze caetozuc ebulara vama puom viura wijuli boeb ruf uhco huoplib meel odi. Zidse edu seroafe an sehe hoeza sumsu awiha jakulde jebucik ulababel gu."
+  },
+  "apiKey": "6169ab4e039ae1f7bb85204f4fec5ecd14d87c06eae17db7fe5a6a20cba1a198",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
